@@ -1,0 +1,193 @@
+# Copyright (C) 2019 MachoThemes
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Manager Plus 1.4.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/uber-media\n"
+"POT-Creation-Date: 2019-10-10 10:08:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/sources/500px.php:38
+msgid "500px License Options"
+msgstr ""
+
+#: includes/sources/500px.php:39
+msgid "Select the license type of images returned from 500px"
+msgstr ""
+
+#: includes/sources/flickr.php:35
+msgid "Flickr License Options"
+msgstr ""
+
+#: includes/sources/flickr.php:36
+msgid "Select the license types of images returned from Flickr"
+msgstr ""
+
+#: includes/uber-media-settings.php:44
+msgid "Show Connected Sources"
+msgstr ""
+
+#: includes/uber-media-settings.php:45
+msgid "Only show connected sources in side menu of the media popup"
+msgstr ""
+
+#: includes/uber-media-settings.php:51
+msgid "Safe Mode"
+msgstr ""
+
+#: includes/uber-media-settings.php:52
+msgid "Safe mode filters sources for nude, explicit or NSFW media"
+msgstr ""
+
+#: includes/wp-settings-framework.php:288
+msgid "Save All Changes"
+msgstr ""
+
+#: uber-media.php:160 uber-media.php:189
+msgid "Welcome to Media Manager Plus"
+msgstr ""
+
+#: uber-media.php:161 uber-media.php:190
+msgid ""
+"Thank you for updating to the latest version! Media Manager Plus %s "
+"upgrades the WordPress media manager with third party image sources."
+msgstr ""
+
+#: uber-media.php:166 uber-media.php:195
+msgid "What's New"
+msgstr ""
+
+#: uber-media.php:170 uber-media.php:199 uber-media.php:219
+msgid "Support"
+msgstr ""
+
+#: uber-media.php:180 uber-media.php:246
+msgid "Go to Media Manager Plus Settings"
+msgstr ""
+
+#: uber-media.php:204
+msgid "Get Some Help"
+msgstr ""
+
+#: uber-media.php:207
+msgid "Website"
+msgstr ""
+
+#: uber-media.php:211
+msgid "Created by"
+msgstr ""
+
+#: uber-media.php:215
+msgid "Maintained & operated by "
+msgstr ""
+
+#: uber-media.php:224
+msgid "Changelog"
+msgstr ""
+
+#: uber-media.php:231
+msgid "Watch The Video"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Media Manager Plus"
+msgstr ""
+
+#: uber-media.php:354
+msgid "No available sources"
+msgstr ""
+
+#: uber-media.php:613
+msgid "Insert into page"
+msgstr ""
+
+#: uber-media.php:613
+msgid "Insert into post"
+msgstr ""
+
+#: uber-media.php:614
+msgid "Import"
+msgstr ""
+
+#: uber-media.php:616
+msgid "Insert from "
+msgstr ""
+
+#: uber-media.php:664
+msgid "Caption"
+msgstr ""
+
+#: uber-media.php:669
+msgid "Title"
+msgstr ""
+
+#: uber-media.php:674
+msgid "Alt Text"
+msgstr ""
+
+#: uber-media.php:678
+msgid "Align"
+msgstr ""
+
+#: uber-media.php:680
+msgid "Left"
+msgstr ""
+
+#: uber-media.php:681
+msgid "Center"
+msgstr ""
+
+#: uber-media.php:682
+msgid "Right"
+msgstr ""
+
+#: uber-media.php:683 uber-media.php:691
+msgid "None"
+msgstr ""
+
+#: uber-media.php:687
+msgid "Link To"
+msgstr ""
+
+#: uber-media.php:689
+msgid "Image URL"
+msgstr ""
+
+#: uber-media.php:690
+msgid "Page URL"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://dev7studios.com/uber-media"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Upgrade the WordPress Media Manager and add support for Flickr, Instagram, "
+"500px etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MachoThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.machothemes.com/"
+msgstr ""
